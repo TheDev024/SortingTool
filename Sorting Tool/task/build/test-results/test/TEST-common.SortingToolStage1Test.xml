@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="common.SortingToolStage1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-07T19:33:14" hostname="DESKTOP-JA25RKB" time="0.42">
+<testsuite name="common.SortingToolStage1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-07T20:08:55" hostname="DESKTOP-JA25RKB" time="0.338">
   <properties/>
-  <testcase name="start" classname="common.SortingToolStage1Test" time="0.42"/>
+  <testcase name="start" classname="common.SortingToolStage1Test" time="0.338"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 > 1 -2   33 4
