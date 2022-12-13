@@ -139,9 +139,9 @@ files:
         return CheckResult(true)
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/106/stages/574/implement#comment
+feedback_link: https://hyperskill.org/learn/step/9623#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: "Wed, 07 Dec 2022 20:08:55 UTC"
-record: -1
+record: 1
